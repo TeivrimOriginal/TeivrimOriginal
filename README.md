@@ -46,15 +46,11 @@
 
 ---
 
-### About
+Бэкэнд разработчик // Backebd developer
+Или достижения 
+Профиль в itch - https://itch.io/profile/teivrim
 
-Student at Ural College of Technologies, NRNU MEPhI — Information Networks and Programming (vocational), 2024–2027.
-
-Work: C++, Rust, Python; Vulkan, OpenGL, Win32, CMake. Projects are published below and on the portfolio site. English — A2.
-
-**Selected work**
-- **TPaint** — raster graphics editor in pure Rust, no C/C++ ([repo](https://github.com/TeivrimOriginal/Copy-SAI-Paint-with-Rust))
-- **TeivrimSite** — anime/manga aggregator: public APIs, data processing, Rust ([repo](https://github.com/TeivrimOriginal/TeivrimSite))
+**pet project **
 - **Teivrim-Engine** — cross-platform game engine, ~10–15% complete ([repo](https://github.com/TeivrimOriginal/Teivrim-Engine))
 - **Visual novel editor** — timeline, scene hierarchy, inspector, script panel ([repo](https://github.com/TeivrimOriginal/teivrim-novell-engine))
 
