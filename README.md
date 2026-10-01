@@ -47,11 +47,13 @@
 ---
 
 Бэкэнд разработчик // Backebd developer
-Или достижения 
+
+достижения: 
+
 Профиль в itch - https://itch.io/profile/teivrim
 
 **pet project **
-- **Teivrim-Engine** — cross-platform game engine, ~10–15% complete ([repo](https://github.com/TeivrimOriginal/Teivrim-Engine))
+- **Teivrim-Engine** — Моё главное детище, ~10–15% сделано. ([repo](https://github.com/TeivrimOriginal/Teivrim-Engine))
 - **Visual novel editor** — timeline, scene hierarchy, inspector, script panel ([repo](https://github.com/TeivrimOriginal/teivrim-novell-engine))
 
 ---
