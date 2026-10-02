@@ -1,4 +1,4 @@
-<h1 align="center">Danila Arinov</h1>
+<h1 align="center">Teivrim</h1>
 <p align="center">C++ · Rust · Python · Graphics & Systems Programming</p>
 
 <p align="center">
