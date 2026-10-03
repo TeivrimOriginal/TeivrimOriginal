@@ -25,7 +25,7 @@
 
 ## What I build
 
-## Backend and APIs
+**Backend and APIs**
 - **Anime DB** — catalogue backend rewritten from Node.js to Actix-Web: SQLite FTS5, Docker,
   ~20k records aggregated from three public APIs, JSON API with filters and pagination, Android client.
   564 unit tests, and CI on every push: rustfmt, clippy with `-D warnings`, `cargo test`.
