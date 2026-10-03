@@ -19,12 +19,17 @@
 
 ---
 
+**769 tests across these repositories** — 564 in the Rust catalogue (CI green),
+158 in the image editor, 47 UI tests. CI runs rustfmt, clippy `-D warnings` and
+`cargo test` on every push to the catalogue.
+
 ## What I build
 
-**Backend and APIs**
+## Backend and APIs
 - **Anime DB** — catalogue backend rewritten from Node.js to Actix-Web: SQLite FTS5, Docker,
   ~20k records aggregated from three public APIs, JSON API with filters and pagination, Android client.
-  → [repo](https://github.com/TeivrimOriginal/TeivrimSite)
+  564 unit tests, and CI on every push: rustfmt, clippy with `-D warnings`, `cargo test`.
+  → [repo](https://github.com/TeivrimOriginal/TeivrimSite) · [CI](https://github.com/TeivrimOriginal/TeivrimSite/actions/workflows/ci.yml)
 
 **Automation and testing**
 - **practice-automation-tests** — 47 UI autotests (Selenium + Pytest + Allure): positive,
@@ -34,7 +39,7 @@
 
 **Tools and desktop software**
 - **TPaint** — image editor in Rust with a custom immediate-mode UI: 15+ tools, layers with masks
-  and 10 blend modes, PSD export, 140+ automated tests.
+  and 10 blend modes, PSD export, 158 unit tests.
   → [repo](https://github.com/TeivrimOriginal/Copy-SAI-Paint-with-Rust)
 - **Teivrim-Engine** — C++17 engine from scratch: runtime backend selection, scene graph,
   FBX/OBJ import via Assimp.
@@ -50,8 +55,8 @@
 | Backend | Actix-Web, REST API, JSON, SQLite FTS5, Docker |
 | Automation | Scrapers, Telegram bots, third-party API integrations, Selenium, Pytest, Allure |
 | Tools | Git, CMake, Cargo, MinGW / MSVC, Linux, debugging and profiling |
-| Practices | Automated testing, code review, architecture docs |
+| Practices | Automated testing (769 tests across the repos above), CI, code review, architecture docs |
 
 ## Currently looking for
 
-A first job: backend, automation or tooling — open to a junior / internship rate.
+A first job in backend, automation or tooling. Open to remote.
