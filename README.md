@@ -1,67 +1,57 @@
-<h1 align="center">Teivrim</h1>
-<p align="center">C++ · Rust · Python · Graphics & Systems Programming</p>
+<h1 align="center">Hi, I'm Danila — Python / C++ developer</h1>
+<p align="center">
+  <b>Backend · REST API · Automation</b>
+</p>
 
 <p align="center">
-  <a href="https://teivrimoriginal.github.io/Partfolio-Site/"><b>🌐 Portfolio</b></a>
+  <a href="https://teivrimoriginal.github.io/Partfolio-Site/"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
-  <a href="https://teivrimoriginal.github.io/Partfolio-Site/resume.html"><b>📄 Résumé (RU)</b></a>
+  <a href="https://teivrimoriginal.github.io/Partfolio-Site/resume.html"><b>Resume (RU)</b></a>
   &nbsp;·&nbsp;
-  <a href="https://teivrimoriginal.github.io/Partfolio-Site/resume-en.html"><b>📄 Résumé (EN)</b></a>
+  <a href="https://teivrimoriginal.github.io/Partfolio-Site/resume-en.html"><b>Resume (EN)</b></a>
   &nbsp;·&nbsp;
-  <a href="mailto:teivrim@gmail.com"><b>✉️ Email</b></a>
+  <a href="https://t.me/Smishnyavko"><b>Telegram</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:teivrim@gmail.com"><b>Email</b></a>
+  &nbsp;·&nbsp;
+  <a href="tel:+79014318298"><b>+7 901 431-82-98</b></a>
 </p>
 
 ---
 
-<div align="center">
+## What I build
 
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender" />
-</div>
+**Backend and APIs**
+- **Anime DB** — catalogue backend rewritten from Node.js to Actix-Web: SQLite FTS5, Docker,
+  ~20k records aggregated from three public APIs, JSON API with filters and pagination, Android client.
+  → [repo](https://github.com/TeivrimOriginal/TeivrimSite)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vulkan" height="40" alt="vulkan" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opengl" height="40" alt="opengl" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-</div>
+**Automation and testing**
+- **practice-automation-tests** — 47 UI autotests (Selenium + Pytest + Allure): positive,
+  negative and contact-form cases with Allure HTML reports.
+  → [repo](https://github.com/TeivrimOriginal/practice-automation-tests)
+- Client work on Kwork: Telegram bots in Python, website scrapers, REST APIs, automation.
 
----
+**Tools and desktop software**
+- **TPaint** — image editor in Rust with a custom immediate-mode UI: 15+ tools, layers with masks
+  and 10 blend modes, PSD export, 140+ automated tests.
+  → [repo](https://github.com/TeivrimOriginal/Copy-SAI-Paint-with-Rust)
+- **Teivrim-Engine** — C++17 engine from scratch: runtime backend selection, scene graph,
+  FBX/OBJ import via Assimp.
+  → [repo](https://github.com/TeivrimOriginal/Teivrim-Engine)
+- **Visual novel editor** — C++ / Win32 / GDI+: 6 panels, drag-and-drop from Explorer.
+  → [repo](https://github.com/TeivrimOriginal/teivrim-novell-engine)
 
-Бэкэнд разработчик // Backebd developer
+## Stack
 
-достижения: 
+| | |
+|---|---|
+| Languages | Python, C++17, SQL (SQLite), C# (Unity) |
+| Backend | Actix-Web, REST API, JSON, SQLite FTS5, Docker |
+| Automation | Scrapers, Telegram bots, third-party API integrations, Selenium, Pytest, Allure |
+| Tools | Git, CMake, Cargo, MinGW / MSVC, Linux, debugging and profiling |
+| Practices | Automated testing, code review, architecture docs |
 
-Профиль в itch - https://itch.io/profile/teivrim
+## Currently looking for
 
-**pet project **
-- **Teivrim-Engine** — Моё главное детище, ~10–15% сделано. ([repo](https://github.com/TeivrimOriginal/Teivrim-Engine))
-- **Visual novel editor** — timeline, scene hierarchy, inspector, script panel ([repo](https://github.com/TeivrimOriginal/teivrim-novell-engine))
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TeivrimOriginal&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=TeivrimOriginal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+A first job: backend, automation or tooling — open to a junior / internship rate.
