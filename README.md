@@ -33,8 +33,10 @@
 
 **Automation and testing**
 - **practice-automation-tests** — 47 UI autotests (Selenium + Pytest + Allure): positive,
-  negative and contact-form cases with Allure HTML reports. This one is coursework,
-  so the repository is private — ask and I will share it.
+  negative and contact-form cases with Allure HTML reports. These drive a live
+  third-party site, so CI runs them but does not gate on them — the site sits
+  behind a browser check and blocks the runner.
+  → [repo](https://github.com/TeivrimOriginal/practice-automation-tests)
 - Client work on Kwork: Telegram bots in Python, website scrapers, REST APIs, automation.
 
 **Tools and desktop software**
