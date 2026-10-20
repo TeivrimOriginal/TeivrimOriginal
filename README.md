@@ -1,4 +1,4 @@
-<h1 align="center">Python / C++ developer</h1>
+<h1 align="center">Python BackEnd | FastAPI Django  developer</h1>
 <p align="center">
   <b>Backend · REST API · Automation</b>
 </p>
